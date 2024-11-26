@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tork"
-version = "0.0.0"
+version = "0.0.1"
 description = "Edge framework."
 authors = ["ameen-91 <mohammedameen9011@gmail.com>"]
 license = "MIT"
